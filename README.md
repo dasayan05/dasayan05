@@ -1,7 +1,5 @@
 ## Hello 👋, I am [Ayan Das](https://ayandas.me) (@dasayan05)
 
-------
-
 I am a Ph.D. student at [SketchX Lab](http://sketchx.ai/), [University of Surrey](http://surrey.ac.uk/) working in the field of Deep Learning, Computer Vision and Computer Graphics. My focus is on analysing and modelling human sketches and drawings from a computational as well as theretical perspective. Also interested in human congnition and its computational models.
 
 ### ⚡️ Me in a nutshell:
