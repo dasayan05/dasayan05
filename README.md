@@ -7,7 +7,7 @@ I am a Ph.D. student at [SketchX Lab](http://sketchx.ai/), [University of Surrey
 - **Love programming:** `C/C++`, `Python` for daily job & `Lisp`, `Julia`, Web Technologies (moderate-level) for fun.
 - **Fond of Math:** Daily research work involves lot of maths like Linear Algebra, Probabilities and Optimization.
 - **Love to teach:** Eager to share knowledge; publish full-fledged (comprehensive) [blogs/articles](https://ayandas.me/blogs.html) on various research topics.
-- **Voluntary:** Serving as a reviewer for top conferences like [ICCV](http://iccv2021.thecvf.com/), [ACM SIGGRAPH](https://www.siggraph.org/).
+- **Voluntary:** Serving as reviewer at top conferences ([ICCV](http://iccv2021.thecvf.com/), [ACM SIGGRAPH](https://www.siggraph.org/)) and journals ([Elsevier NN](https://www.journals.elsevier.com/neural-networks)).
 - **Extra:** Love Music, Junk foods and Animals (specially Cats).
 
 ### 📝 Portfolio:
