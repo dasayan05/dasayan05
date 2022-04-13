@@ -17,7 +17,7 @@ I am a 3rd year Ph.D. student at [SketchX Lab](http://sketchx.ai/), [University 
 | 1. [SketchODE: Learning sketch representation ..](https://ayandas.me/sketchode) | 1. [A modular Deep RL library](https://github.com/dasayan05/rlx) | 1. [Score & Diffusion Models ..](https://ayandas.me/blog-tut/2021/12/04/diffusion-prob-models.html) |
 | 2. [Pixelor: A Competitive Sketching AI Agent ..](https://ayandas.me/pubs/2020/07/30/pub-8.html) | 2. [anyx](https://ayandas.me/anyx/) (in progress) | 2. [Differentiable Programming: Computing ..](https://ayandas.me/blog-tut/2020/09/08/differentiable-programming.html) |
 | 3. [BézierSketch: A generative model ..](https://ayandas.me/pubs/2020/05/22/pub-7.html) |    | 3. [Energy Based Models (EBMs) ..](https://ayandas.me/blog-tut/2020/08/13/energy-based-models-one.html) |
-| 3. [Cloud2Curve: Generation and Vectorization ..](https://ayandas.me/pubs/2021/03/01/pub-9.html) | | 3. [Probabilistic Programming ..](https://ayandas.me/blog-tut/2020/05/05/probabilistic-programming.html) |
+| 4. [Cloud2Curve: Generation and Vectorization ..](https://ayandas.me/pubs/2021/03/01/pub-9.html) | | 4. [Probabilistic Programming ..](https://ayandas.me/blog-tut/2020/05/05/probabilistic-programming.html) |
 |         [Full List ..](https://ayandas.me/pubs.html)         |                                                              |           [More ..](https://ayandas.me/blogs.html)           |
 
 Go through my personal website "[ayandas.me](https://ayandas.me/)" to know more about me and my work. Want to contact me? Check out the [Contact Page](https://ayandas.me/contact.html).
