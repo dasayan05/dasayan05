@@ -15,8 +15,8 @@ I am a 3rd year Ph.D. student at [SketchX Lab](http://sketchx.ai/), [University 
 |                     **Research Papers**                      |                         **Projects**                         |                      **Blogs/Articles**                      |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | 1. [ChiroDiff: Modelling chirographic data ...](https://ayandas.me/chirodiff) | 1. [A modular Deep RL library](https://github.com/dasayan05/rlx) | 1. [Score & Diffusion Models ..](https://ayandas.me/blog-tut/2021/12/04/diffusion-prob-models.html) |
-| 2. [SketchODE: Learning sketch representation ..](https://ayandas.me/sketchode) | 2. [anyx](https://ayandas.me/anyx/) (in progress) | 2. [Differentiable Programming: Computing ..](https://ayandas.me/blog-tut/2020/09/08/differentiable-programming.html) |
-| 3. [Pixelor: A Competitive Sketching AI Agent ..](https://ayandas.me/pubs/2020/07/30/pub-8.html) |    | 3. [Energy Based Models (EBMs) ..](https://ayandas.me/blog-tut/2020/08/13/energy-based-models-one.html) |
+| 2. [SketchODE: Learning sketch representation ..](https://ayandas.me/sketchode) | 2. [Typst-AI-conf-templates](https://github.com/dasayan05/typst-ai-conf-templates)  | 2. [Differentiable Programming: Computing ..](https://ayandas.me/blog-tut/2020/09/08/differentiable-programming.html) |
+| 3. [Pixelor: A Competitive Sketching AI Agent ..](https://ayandas.me/pubs/2020/07/30/pub-8.html) |  3. [anyx](https://ayandas.me/anyx/) (in progress)  | 3. [Energy Based Models (EBMs) ..](https://ayandas.me/blog-tut/2020/08/13/energy-based-models-one.html) |
 | 4. [BézierSketch: A generative model ..](https://ayandas.me/pubs/2020/05/22/pub-7.html) | | 4. [Probabilistic Programming ..](https://ayandas.me/blog-tut/2020/05/05/probabilistic-programming.html) |
 |         [Full List ..](https://ayandas.me/pubs.html)         |                                                              |           [More ..](https://ayandas.me/blogs.html)           |
 
