@@ -1,6 +1,6 @@
 ## Hello 👋, I am [Ayan Das](https://ayandas.me) (@dasayan05)
 
-I am a full-time Senior AI Research Scientist at MediaTek Research UK, working on Diffusion Models & Generative AI in general. I am also about to finish my Ph.D. (writing thesis) at [SketchX Lab](http://sketchx.ai/), [University of Surrey](http://surrey.ac.uk/) working in the field of Vision and Graphics. My focus is on analysing and modelling human sketches and drawings from a computational as well as theretical perspective.
+I am a full-time Senior AI Research Scientist at [MediaTek Research UK](https://www.mtkresearch.com/en/), working on Diffusion Models & Generative AI in general. I am also about to finish my Ph.D. (writing thesis) at [SketchX Lab](http://sketchx.ai/), [University of Surrey](http://surrey.ac.uk/) working in the field of Vision and Graphics. My focus is on analysing and modelling human sketches and drawings from a computational as well as theretical perspective.
 
 ### ⚡️ Me in a nutshell:
 
